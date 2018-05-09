@@ -13,4 +13,4 @@ To compile it you would need:
 * wdl-ol framework by Oli Larkin (https://github.com/olilarkin/wdl-ol)
 * Matlab
 
-You can still try it out by importing the .dll ("Synthesis.dll") into some VST host, e.g. Savihost. DAW integration unfortunately hasn't been tested yet :(
+You can still try it out by importing the .dll ("Synthesis.dll") into some VST host, e.g. Savihost. DAW integration unfortunately hasn't been properly tested yet :(
